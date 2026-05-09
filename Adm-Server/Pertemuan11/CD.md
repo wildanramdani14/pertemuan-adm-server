@@ -1,6 +1,6 @@
-###Modernisasi CI/CD (Continuous Integration/Continuous Delivery)
+### Modernisasi CI/CD (Continuous Integration/Continuous Delivery)
 
-##Lanjutan Praktikum Pertemuan 10
+## Lanjutan Praktikum Pertemuan 10
 
 Mengisi Secrets Variable di Github Actions
 
